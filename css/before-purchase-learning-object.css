@@ -1,0 +1,1138 @@
+/* screen - before-purchase-learning-object */
+
+.before-purchase-learning-object {
+  background-color: var(--white);
+  height: 1596px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 425px;
+}
+
+.before-purchase-learning-object .frame-301-QmkxaS {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: -6px;
+  min-height: 1492px;
+  position: absolute;
+  top: 21px;
+  width: 438px;
+}
+
+.before-purchase-learning-object .frame-251-tYTXB7 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 37px;
+  justify-content: flex-start;
+  min-width: 383px;
+  position: relative;
+  width: auto;
+}
+
+.before-purchase-learning-object .frame-250-TfzlSn {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 37px;
+  justify-content: flex-start;
+  min-width: 63px;
+  position: relative;
+  width: auto;
+}
+
+.before-purchase-learning-object .textlabel-FmGyQZ {
+  align-self: center;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  min-height: 28px;
+  min-width: 30px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.before-purchase-learning-object .logo-FmGyQZ {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 7px;
+  margin-top: -0.1px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 26px;
+}
+
+.before-purchase-learning-object .frame-89-TfzlSn {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 35px;
+  justify-content: flex-start;
+  margin-left: 190px;
+  min-width: 130px;
+  position: relative;
+  width: auto;
+}
+
+.before-purchase-learning-object .frame-90-BLrfne {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 35px;
+  justify-content: flex-start;
+  min-width: 97px;
+  position: relative;
+  width: auto;
+}
+
+.before-purchase-learning-object .dropdown-item-ox4OMd {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 35px;
+  justify-content: flex-end;
+  min-width: 73px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.before-purchase-learning-object .label-JAGNJT {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 22.1px;
+  min-height: 22px;
+  min-width: 75px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.before-purchase-learning-object .money-1-ox4OMd {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 20px;
+  margin-left: 5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 20px;
+}
+
+.before-purchase-learning-object .shopping-bag-2-BLrfne {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  margin-left: 9px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 23px;
+}
+
+.before-purchase-learning-object .frame-211-tYTXB7 {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 27px;
+  min-height: 1428px;
+  position: relative;
+  width: 438px;
+}
+
+.before-purchase-learning-object .frame-210-VpBoCg {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 932px;
+  position: relative;
+  width: 438px;
+}
+
+.before-purchase-learning-object .frame-203-2OxgQU {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 346px;
+  position: relative;
+  width: 438px;
+}
+
+.before-purchase-learning-object .view-76t9j6 {
+  background-color: transparent;
+  height: 278px;
+  left: 6px;
+  position: absolute;
+  top: -0px;
+  width: 425px;
+}
+
+.before-purchase-learning-object .group-114-76t9j6 {
+  background-color: transparent;
+  height: 69px;
+  left: 0px;
+  position: absolute;
+  top: 278px;
+  width: 444px;
+}
+
+.before-purchase-learning-object .rectangle-132-xrwYI5 {
+  background-color: var(--white);
+  height: 69px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 438px;
+}
+
+.before-purchase-learning-object .overview-xrwYI5 {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: 83px;
+}
+
+.before-purchase-learning-object .my-notes-xrwYI5 {
+  background-color: transparent;
+  height: auto;
+  left: 155px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: 81px;
+}
+
+.before-purchase-learning-object .activities-xrwYI5 {
+  background-color: transparent;
+  height: auto;
+  left: 286px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: 82px;
+}
+
+.before-purchase-learning-object .rectangle-133-xrwYI5 {
+  background-color: var(--isko-raven);
+  height: 7px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 61px;
+  width: 120px;
+}
+
+.before-purchase-learning-object .frame-202-2OxgQU {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 24px;
+  min-height: 562px;
+  position: relative;
+  width: 390px;
+}
+
+.before-purchase-learning-object .frame-201-IcTm0k {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 127px;
+  position: relative;
+  width: 383px;
+}
+
+.before-purchase-learning-object .frame-196-CQxEyx {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 102px;
+  position: relative;
+  width: 383px;
+}
+
+.before-purchase-learning-object .understanding-t-ng-object-title-0vQfCb {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 38px;
+  min-width: 375px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 375px;
+}
+
+.before-purchase-learning-object .frame-195-0vQfCb {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 23px;
+  justify-content: flex-start;
+  margin-top: 41px;
+  min-width: 383px;
+  position: relative;
+  width: auto;
+}
+
+.before-purchase-learning-object .charlene-tormes-W9jb2p {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 23px;
+  min-width: 133px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.before-purchase-learning-object .frame-8-W9jb2p {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  margin-left: 135px;
+  margin-top: -0.25px;
+  position: relative;
+  width: 115px;
+}
+
+.before-purchase-learning-object .frame-194-CQxEyx {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 20px;
+  justify-content: flex-start;
+  margin-top: 5px;
+  min-width: 209px;
+  position: relative;
+  width: auto;
+}
+
+.before-purchase-learning-object .frame-192-mD5Ymc {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 20px;
+  justify-content: flex-end;
+  min-width: 64px;
+  position: relative;
+  width: auto;
+}
+
+.before-purchase-learning-object .vector-VmMwbW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 12px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 12px;
+}
+
+.before-purchase-learning-object .x1h-34m-VmMwbW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 4px;
+  min-height: 20px;
+  min-width: 49px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.before-purchase-learning-object .frame-193-mD5Ymc {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 20px;
+  justify-content: flex-end;
+  margin-left: 27px;
+  min-width: 118px;
+  position: relative;
+  width: auto;
+}
+
+.before-purchase-learning-object .user-1-1-nCRxpp {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 12px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 12px;
+}
+
+.before-purchase-learning-object .x753-downloads-nCRxpp {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 4px;
+  min-height: 20px;
+  min-width: 103px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.before-purchase-learning-object .frame-200-IcTm0k {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 37px;
+  min-height: 398px;
+  position: relative;
+  width: 390px;
+}
+
+.before-purchase-learning-object .lorem-ipsum-is-ially-unchanged-HHnaQF {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 164px;
+  min-width: 392px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 392px;
+}
+
+.before-purchase-learning-object .objectives-HHnaQF {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 26px;
+  min-height: 31px;
+  min-width: 94px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 94px;
+}
+
+.before-purchase-learning-object .lorem-ipsum-is-of-the-printing-HHnaQF {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 26px;
+  min-height: 151px;
+  min-width: 392px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 392px;
+}
+
+.before-purchase-learning-object .frame-199-VpBoCg {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 49px;
+  min-height: 447px;
+  position: relative;
+  width: 389px;
+}
+
+.before-purchase-learning-object .line-13-czwgQr {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 2px;
+  margin-top: 0px;
+  position: relative;
+  width: 383px;
+}
+
+.before-purchase-learning-object .frame-198-czwgQr {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 30px;
+  min-height: 416px;
+  position: relative;
+  width: 389px;
+}
+
+.before-purchase-learning-object .objects-you-might-like-PAz7Dt {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 27.3px;
+  min-height: 27px;
+  min-width: 258px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.before-purchase-learning-object .frame-197-PAz7Dt {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 29px;
+  min-height: 360px;
+  position: relative;
+  width: 389px;
+}
+
+.before-purchase-learning-object .hv-false-ChOUm8 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 4.23px;
+  box-shadow: 0px 4px 50px #0000000d;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 173px;
+  justify-content: flex-start;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  padding: 16.9px 16.9px;
+  position: relative;
+  width: 389px;
+}
+
+.before-purchase-learning-object .image-placeholder-I7s6rh {
+  background-color: var(--alabaster-2);
+  border-radius: 4.23px;
+  flex-shrink: 1;
+  height: 140px;
+  margin-left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 140px;
+}
+
+.before-purchase-learning-object .icon-i240540661501264-dechBK {
+  background-color: transparent;
+  height: 35px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 52px;
+  width: 28px;
+}
+
+.before-purchase-learning-object .image-54-dechBK {
+  background-color: transparent;
+  height: 140px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 140px;
+}
+
+.before-purchase-learning-object .frame-9-dechBK {
+  align-items: flex-end;
+  background-color: var(--ocean-green-pearl);
+  border-radius: 5.44px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 16px;
+  justify-content: flex-end;
+  left: 88px;
+  min-width: 45px;
+  mix-blend-mode: normal;
+  padding: 0.9px 2.2px;
+  position: absolute;
+  top: 8px;
+  width: auto;
+}
+
+.before-purchase-learning-object .php-1500-i240540661501397-Giy7iH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 14px;
+  min-width: 39px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 39px;
+}
+
+.before-purchase-learning-object .text-block-heading-4-I7s6rh {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 16px;
+  min-height: 140px;
+  position: relative;
+  width: 199px;
+}
+
+.before-purchase-learning-object .frame-189-iNRSVZ {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 61px;
+  position: relative;
+  width: 199px;
+}
+
+.before-purchase-learning-object .frame-188-wPWtdT {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 44px;
+  position: relative;
+  width: 199px;
+}
+
+.before-purchase-learning-object .title-i240540661501245-B2gHVx {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 32px;
+  min-width: 201px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 201px;
+}
+
+.before-purchase-learning-object .x10-videos-i240540661501297-B2gHVx {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 0px;
+  min-height: 12px;
+  min-width: 38px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: right;
+  width: auto;
+}
+
+.before-purchase-learning-object .frame-8-wPWtdT {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 13px;
+  margin-left: -0.29px;
+  margin-top: 4px;
+  position: relative;
+  width: 64px;
+}
+
+.before-purchase-learning-object .text-i240540661501246-iNRSVZ {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 15.2px;
+  margin-top: 8px;
+  min-height: 45px;
+  min-width: 201px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 201px;
+}
+
+.before-purchase-learning-object .frame-73-iNRSVZ {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 24px;
+  justify-content: flex-start;
+  margin-top: 8px;
+  min-width: 114px;
+  position: relative;
+  width: auto;
+}
+
+.before-purchase-learning-object .button-tertiary-hOLKVU {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 3.38px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 24px;
+  justify-content: flex-start;
+  min-width: 114px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.before-purchase-learning-object .label-i240540661501254-xrFPBG {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 23.7px;
+  min-height: 24px;
+  min-width: 89px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.before-purchase-learning-object .icon-i240540661501255-xrFPBG {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 4px;
+  min-height: 20px;
+  min-width: 22px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: 22px;
+}
+
+.before-purchase-learning-object .hv-false-qlIjZt {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 4.23px;
+  box-shadow: 0px 4px 50px #0000000d;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 173px;
+  justify-content: flex-start;
+  margin-top: 13px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  padding: 16.9px 16.9px;
+  position: relative;
+  width: 389px;
+}
+
+.before-purchase-learning-object .image-placeholder-DFmaeP {
+  background-color: var(--alabaster-2);
+  border-radius: 4.23px;
+  flex-shrink: 1;
+  height: 140px;
+  margin-left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 140px;
+}
+
+.before-purchase-learning-object .icon-i240540671501264-JVSorz {
+  background-color: transparent;
+  height: 35px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 52px;
+  width: 28px;
+}
+
+.before-purchase-learning-object .image-54-JVSorz {
+  background-color: transparent;
+  height: 140px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 140px;
+}
+
+.before-purchase-learning-object .frame-9-JVSorz {
+  align-items: flex-end;
+  background-color: var(--ocean-green-pearl);
+  border-radius: 5.44px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 16px;
+  justify-content: flex-end;
+  left: 88px;
+  min-width: 45px;
+  mix-blend-mode: normal;
+  padding: 0.9px 2.2px;
+  position: absolute;
+  top: 8px;
+  width: auto;
+}
+
+.before-purchase-learning-object .php-1500-i240540671501397-n1uxRs {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 14px;
+  min-width: 39px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 39px;
+}
+
+.before-purchase-learning-object .text-block-heading-4-DFmaeP {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 16px;
+  min-height: 140px;
+  position: relative;
+  width: 199px;
+}
+
+.before-purchase-learning-object .frame-189-3zBpxa {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 61px;
+  position: relative;
+  width: 199px;
+}
+
+.before-purchase-learning-object .frame-188-cVkxmL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 44px;
+  position: relative;
+  width: 199px;
+}
+
+.before-purchase-learning-object .title-i240540671501245-qiAxyE {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 32px;
+  min-width: 201px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 201px;
+}
+
+.before-purchase-learning-object .x10-videos-i240540671501297-qiAxyE {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 0px;
+  min-height: 12px;
+  min-width: 38px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: right;
+  width: auto;
+}
+
+.before-purchase-learning-object .frame-8-cVkxmL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 14px;
+  margin-left: -0.29px;
+  margin-top: 3px;
+  position: relative;
+  width: 64px;
+}
+
+.before-purchase-learning-object .text-i240540671501246-3zBpxa {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 15.2px;
+  margin-top: 8px;
+  min-height: 45px;
+  min-width: 201px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 201px;
+}
+
+.before-purchase-learning-object .frame-73-3zBpxa {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 24px;
+  justify-content: flex-start;
+  margin-top: 8px;
+  min-width: 114px;
+  position: relative;
+  width: auto;
+}
+
+.before-purchase-learning-object .button-tertiary-PajVD8 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 3.38px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 24px;
+  justify-content: flex-start;
+  min-width: 114px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.before-purchase-learning-object .label-i240540671501254-eC2Oij {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 23.7px;
+  min-height: 24px;
+  min-width: 89px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.before-purchase-learning-object .icon-i240540671501255-eC2Oij {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 4px;
+  min-height: 20px;
+  min-width: 22px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: 22px;
+}
+
+.before-purchase-learning-object .add-to-cart-button-QmkxaS {
+  align-items: center;
+  background-color: var(--ocean-green-pearl);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 66px;
+  justify-content: flex-start;
+  left: 0px;
+  min-width: 425px;
+  mix-blend-mode: normal;
+  padding: 0 44px;
+  position: absolute;
+  top: 723px;
+  width: auto;
+}
+
+.before-purchase-learning-object .frame-207-FoeNcF {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 34px;
+  justify-content: flex-start;
+  margin-left: 0px;
+  min-width: 337px;
+  position: relative;
+  width: auto;
+}
+
+.before-purchase-learning-object .add-WorTUF {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 34px;
+  min-width: 156px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.before-purchase-learning-object .p1500-WorTUF {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 112px;
+  min-height: 34px;
+  min-width: 71px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: right;
+  width: auto;
+}

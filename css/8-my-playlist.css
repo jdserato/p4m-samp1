@@ -1,0 +1,2408 @@
+/* screen - 8-my-playlist */
+
+.x8-my-playlist {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 2195px;
+  justify-content: flex-start;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  padding: 0 8.1px;
+  position: relative;
+  width: 1280px;
+}
+
+.x8-my-playlist .body-LGnGjQ {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 43px;
+  margin-top: 64px;
+  min-height: 1925px;
+  position: relative;
+  width: 1221px;
+}
+
+.x8-my-playlist .topnav-ikACfD {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-start;
+  min-width: 1182px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .component-6-yfdUXI {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 38px;
+  justify-content: flex-start;
+  min-width: 213px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .logo-qJpOM1 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 38px;
+  margin-left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 28px;
+}
+
+.x8-my-playlist .title-i23025129735-qJpOM1 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 46.8px;
+  margin-left: 19px;
+  margin-top: -5px;
+  min-height: 47px;
+  min-width: 96px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x8-my-playlist .frame-85-yfdUXI {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-start;
+  margin-left: 470px;
+  min-width: 499px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .right-xqTcUC {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-start;
+  overflow: hidden;
+  position: relative;
+  width: 499px;
+}
+
+.x8-my-playlist .menu-horizontal-MU6Siq {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-start;
+  min-width: 471px;
+  mix-blend-mode: normal;
+  padding: 0 24px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .dropdown-item-Pu5w70 {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-start;
+  margin-left: 0px;
+  min-width: 48px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .label-hPoQQl {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 50px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x8-my-playlist .dropdown-item-mN49xf {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-start;
+  margin-left: 24px;
+  min-width: 53px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .label-zEdPOQ {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 55px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x8-my-playlist .dropdown-item-1xu6tN {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-start;
+  margin-left: 24px;
+  min-width: 42px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .label-1mxxyu {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 44px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x8-my-playlist .dropdown-item-mkCbfg {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-start;
+  margin-left: 24px;
+  min-width: 89px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .label-0RZw4J {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 91px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x8-my-playlist .dropdown-item-l9fG6f {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-start;
+  margin-left: 24px;
+  min-width: 95px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .label-0EQY7b {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 97px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x8-my-playlist .essentials-user-circle-MU6Siq {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 28px;
+  margin-left: 0px;
+  position: relative;
+  width: 28px;
+}
+
+.x8-my-playlist .frame-86-ikACfD {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 41px;
+  min-height: 1836px;
+  position: relative;
+  width: 1221px;
+}
+
+.x8-my-playlist .frame-130-VZPHtx {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-start;
+  min-width: 1182px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .welcome-back-charlene-kd13Yb {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 34px;
+  justify-content: flex-start;
+  min-width: 706px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .welcome-back-ch-i23025147751437-5ya4Hy {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 63.6px;
+  min-height: 34px;
+  min-width: 708px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 708px;
+}
+
+.x8-my-playlist .enabled-true-ic-con-right-false-kd13Yb {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 4px;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-end;
+  margin-left: 205px;
+  min-width: 275px;
+  mix-blend-mode: normal;
+  padding: 0 13px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .icon-i2302514885859-cbmhOI {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 24px;
+  min-width: 26px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: 26px;
+}
+
+.x8-my-playlist .label-i2302514885860-cbmhOI {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  margin-left: 6px;
+  min-height: 28px;
+  min-width: 215px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x8-my-playlist .continue-watching-VZPHtx {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 371px;
+  margin-top: 76px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 1221px;
+}
+
+.x8-my-playlist .see-all-z494TZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 372px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 6px;
+  width: auto;
+}
+
+.x8-my-playlist .component-5-z494TZ {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  min-height: 371px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1221px;
+}
+
+.x8-my-playlist .everything-you-have-uQPlCY {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 1px;
+  min-height: 47px;
+  min-width: 344px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x8-my-playlist .flex-row-uQPlCY {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 328px;
+  justify-content: flex-start;
+  margin-left: -21.81px;
+  margin-top: 12px;
+  min-width: 1243px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .clo-playlist-card-ijBx1c {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 328px;
+  position: relative;
+  width: 328px;
+}
+
+.x8-my-playlist .frame-82-ijBx1c {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 300px;
+  justify-content: center;
+  margin-bottom: 5.49px;
+  margin-left: 5px;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .clo-playlist-card-2DrqNj {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 328px;
+  margin-top: -11.26px;
+  position: relative;
+  width: 328px;
+}
+
+.x8-my-playlist .frame-84-ijBx1c {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 300px;
+  justify-content: flex-start;
+  margin-bottom: 5.49px;
+  margin-left: 27px;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .frame-86-xjVF5T {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 300px;
+  justify-content: center;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .clo-playlist-card-2HylLi {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 328px;
+  margin-top: -11.26px;
+  position: relative;
+  width: 328px;
+}
+
+.x8-my-playlist .frame-85-ijBx1c {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 300px;
+  justify-content: flex-start;
+  margin-bottom: 5.49px;
+  margin-left: 27px;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .frame-86-01uhkH {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 300px;
+  justify-content: flex-start;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .frame-86-vqBHkV {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 300px;
+  justify-content: center;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .clo-playlist-card-RIbyVY {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 328px;
+  margin-top: -11.26px;
+  position: relative;
+  width: 328px;
+}
+
+.x8-my-playlist .continue-watching-7ZYJJU {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 371px;
+  justify-content: flex-start;
+  margin-top: 76px;
+  min-width: 1221px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .component-5-cxQBXs {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 371px;
+  justify-content: flex-start;
+  min-width: 1221px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .flex-col-ttGNgB {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: -16.91px;
+  margin-left: -21px;
+  min-height: 388px;
+  position: relative;
+  width: 328px;
+}
+
+.x8-my-playlist .flex-row-B6O9CD {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 47px;
+  justify-content: flex-start;
+  margin-right: 20.88px;
+  min-width: 262px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .favorites-r0IHHR {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 47px;
+  min-width: 151px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x8-my-playlist .see-all-r0IHHR {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 27px;
+  margin-top: 3.33px;
+  min-height: 38px;
+  min-width: 84px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: auto;
+}
+
+.x8-my-playlist .clo-playlist-card-B6O9CD {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 328px;
+  margin-top: 12px;
+  position: relative;
+  width: 328px;
+}
+
+.x8-my-playlist .frame-82-ttGNgB {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 300px;
+  justify-content: center;
+  margin-bottom: -0.17px;
+  margin-left: 5px;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .clo-playlist-card-67giQi {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 328px;
+  margin-top: -11.26px;
+  position: relative;
+  width: 328px;
+}
+
+.x8-my-playlist .frame-84-ttGNgB {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 300px;
+  justify-content: flex-start;
+  margin-bottom: -0.17px;
+  margin-left: 27px;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .frame-86-8SaMZB {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 300px;
+  justify-content: center;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .clo-playlist-card-kdf3by {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 328px;
+  margin-top: -11.26px;
+  position: relative;
+  width: 328px;
+}
+
+.x8-my-playlist .frame-85-ttGNgB {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 300px;
+  justify-content: flex-start;
+  margin-bottom: -0.17px;
+  margin-left: 27px;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .frame-86-xR06Dx {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 300px;
+  justify-content: flex-start;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .frame-86-Y4gCjT {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 300px;
+  justify-content: center;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .clo-playlist-card-OEiuHc {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 328px;
+  margin-top: -11.26px;
+  position: relative;
+  width: 328px;
+}
+
+.x8-my-playlist .continue-watching-FkmLex {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 371px;
+  justify-content: flex-start;
+  margin-top: 76px;
+  min-width: 1221px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .component-5-jBgxPD {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 371px;
+  justify-content: flex-start;
+  min-width: 1221px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .flex-col-FlQxUH {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: -16.91px;
+  margin-left: -21px;
+  min-height: 388px;
+  position: relative;
+  width: 331px;
+}
+
+.x8-my-playlist .my-custom-playlist-JNTntK {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 47px;
+  min-width: 308px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x8-my-playlist .clo-playlist-card-JNTntK {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 328px;
+  margin-right: 2.31px;
+  margin-top: 12px;
+  position: relative;
+  width: 328px;
+}
+
+.x8-my-playlist .flex-col-EI8MM0 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: -0.17px;
+  margin-left: 3px;
+  min-height: 365px;
+  position: relative;
+  width: 285px;
+}
+
+.x8-my-playlist .see-all-4y3x2l {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 26px;
+  min-height: 38px;
+  min-width: 84px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: auto;
+}
+
+.x8-my-playlist .frame-82-4y3x2l {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 300px;
+  justify-content: center;
+  margin-top: 27px;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .clo-playlist-card-gxFnpC {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 328px;
+  margin-top: -11.26px;
+  position: relative;
+  width: 328px;
+}
+
+.x8-my-playlist .frame-84-FlQxUH {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 300px;
+  justify-content: flex-start;
+  margin-bottom: -0.17px;
+  margin-left: 27px;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .frame-86-XAlts9 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 300px;
+  justify-content: center;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .clo-playlist-card-B0WPEU {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 328px;
+  margin-top: -11.26px;
+  position: relative;
+  width: 328px;
+}
+
+.x8-my-playlist .frame-85-FlQxUH {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 300px;
+  justify-content: flex-start;
+  margin-bottom: -0.17px;
+  margin-left: 27px;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .frame-86-aQwn1n {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 300px;
+  justify-content: flex-start;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .frame-86-Ic8EpW {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 300px;
+  justify-content: center;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .clo-playlist-card-OJEFFH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 328px;
+  margin-top: -11.26px;
+  position: relative;
+  width: 328px;
+}
+
+.x8-my-playlist .continue-watching-mdXaXC {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 371px;
+  justify-content: flex-start;
+  margin-top: 76px;
+  min-width: 1221px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .component-5-XJERcf {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 371px;
+  justify-content: flex-start;
+  min-width: 1221px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .flex-col-mzl7EH {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: -16.91px;
+  margin-left: -21px;
+  min-height: 388px;
+  position: relative;
+  width: 328px;
+}
+
+.x8-my-playlist .flex-row-k0Erbi {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 47px;
+  justify-content: flex-start;
+  margin-right: 2.69px;
+  min-width: 303px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .all-playlists-7ILHd0 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 47px;
+  min-width: 185px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x8-my-playlist .see-all-7ILHd0 {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 34px;
+  margin-top: 3.33px;
+  min-height: 38px;
+  min-width: 84px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: auto;
+}
+
+.x8-my-playlist .clo-playlist-card-k0Erbi {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 328px;
+  margin-top: 12px;
+  position: relative;
+  width: 328px;
+}
+
+.x8-my-playlist .frame-82-mzl7EH {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 300px;
+  justify-content: center;
+  margin-bottom: -0.17px;
+  margin-left: 5px;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .clo-playlist-card-EAEaOh {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 328px;
+  margin-top: -11.26px;
+  position: relative;
+  width: 328px;
+}
+
+.x8-my-playlist .frame-84-mzl7EH {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 300px;
+  justify-content: flex-start;
+  margin-bottom: -0.17px;
+  margin-left: 27px;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .frame-86-p2WG6l {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 300px;
+  justify-content: center;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .clo-playlist-card-O5oxLX {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 328px;
+  margin-top: -11.26px;
+  position: relative;
+  width: 328px;
+}
+
+.x8-my-playlist .frame-85-mzl7EH {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 300px;
+  justify-content: flex-start;
+  margin-bottom: -0.17px;
+  margin-left: 27px;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .frame-86-XXPPLX {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 300px;
+  justify-content: flex-start;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .frame-86-qCEkWz {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 300px;
+  justify-content: center;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.x8-my-playlist .clo-playlist-card-0xdtDt {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 328px;
+  margin-top: -11.26px;
+  position: relative;
+  width: 328px;
+}
+/* screen - my-playlist-select */
+
+.my-playlist-select {
+  background-color: var(--white);
+  height: 1336px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 425px;
+}
+
+.my-playlist-select .body-hooVri {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 18px;
+  min-height: 1182px;
+  position: absolute;
+  top: 21px;
+  width: 776px;
+}
+
+.my-playlist-select .frame-241-2qPNqY {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 37px;
+  justify-content: flex-start;
+  min-width: 383px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .frame-240-JCsjnS {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 37px;
+  justify-content: flex-start;
+  min-width: 63px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .textlabel-LY78R6 {
+  align-self: center;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  min-height: 28px;
+  min-width: 30px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-playlist-select .logo-LY78R6 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 8px;
+  margin-top: -0.1px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 25px;
+}
+
+.my-playlist-select .frame-89-JCsjnS {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 35px;
+  justify-content: flex-start;
+  margin-left: 190px;
+  min-width: 130px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .frame-90-jjAFb7 {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 35px;
+  justify-content: flex-start;
+  min-width: 97px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .dropdown-item-U5L0h6 {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 35px;
+  justify-content: flex-end;
+  min-width: 73px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .label-LlaeWB {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 22.1px;
+  min-height: 22px;
+  min-width: 75px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.my-playlist-select .money-1-U5L0h6 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 20px;
+  margin-left: 4px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 20px;
+}
+
+.my-playlist-select .shopping-bag-2-jjAFb7 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  margin-left: 9px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 23px;
+}
+
+.my-playlist-select .frame-292-2qPNqY {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 32px;
+  min-height: 1112px;
+  position: relative;
+  width: 776px;
+}
+
+.my-playlist-select .welcome-back-charlene-htJGai {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 38px;
+  justify-content: flex-start;
+  min-width: 303px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .welcome-back-ch-i24052646751437-zvLj63 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 63.6px;
+  min-height: 38px;
+  min-width: 305px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 305px;
+}
+
+.my-playlist-select .frame-291-htJGai {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 26px;
+  min-height: 1048px;
+  position: relative;
+  width: 776px;
+}
+
+.my-playlist-select .continue-watching-MxgzXH {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 236px;
+  justify-content: flex-start;
+  min-width: 776px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .component-5-mgIW9n {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 236px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 776px;
+}
+
+.my-playlist-select .flex-row-6v348c {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 30px;
+  justify-content: flex-start;
+  margin-left: 0.64px;
+  margin-top: 0px;
+  min-width: 287px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .everything-you-have-nF8qqx {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 30px;
+  min-width: 220px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.my-playlist-select .see-all-nF8qqx {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 12px;
+  margin-top: 0.51px;
+  min-height: 24px;
+  min-width: 54px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: 54px;
+}
+
+.my-playlist-select .flex-row-ZlZeWe {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 208px;
+  justify-content: flex-start;
+  margin-left: -13.96px;
+  margin-top: 8px;
+  min-width: 790px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .clo-playlist-card-pIBH4I {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 208px;
+  position: relative;
+  width: 209px;
+}
+
+.my-playlist-select .frame-82-pIBH4I {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 191px;
+  justify-content: center;
+  margin-bottom: 3.49px;
+  margin-left: 3px;
+  min-width: 181px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .clo-playlist-card-VSVVYN {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 208px;
+  margin-top: -7.16px;
+  position: relative;
+  width: 209px;
+}
+
+.my-playlist-select .frame-84-pIBH4I {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 191px;
+  justify-content: flex-start;
+  margin-bottom: 3.49px;
+  margin-left: 17px;
+  min-width: 181px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .frame-86-PtE4d6 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 191px;
+  justify-content: center;
+  min-width: 181px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .clo-playlist-card-KTCTw9 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 208px;
+  margin-top: -7.16px;
+  position: relative;
+  width: 209px;
+}
+
+.my-playlist-select .frame-85-pIBH4I {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 191px;
+  justify-content: flex-start;
+  margin-bottom: 3.49px;
+  margin-left: 17px;
+  min-width: 181px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .frame-86-hh2RiT {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 191px;
+  justify-content: flex-start;
+  min-width: 181px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .frame-86-F8LxRO {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 191px;
+  justify-content: center;
+  min-width: 181px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .clo-playlist-card-D6YQYg {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 208px;
+  margin-top: -7.16px;
+  position: relative;
+  width: 209px;
+}
+
+.my-playlist-select .continue-watching-Qn0pfg {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 236px;
+  justify-content: flex-start;
+  margin-top: 35px;
+  min-width: 776px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .component-5-kUr8BC {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 236px;
+  justify-content: flex-start;
+  min-width: 776px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .flex-col-G3KoP7 {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: -10.76px;
+  margin-left: -13px;
+  min-height: 247px;
+  position: relative;
+  width: 209px;
+}
+
+.my-playlist-select .flex-row-lIN45D {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 30px;
+  justify-content: flex-start;
+  margin-right: 16.32px;
+  min-width: 163px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .favorites-KD3agp {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 30px;
+  min-width: 97px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.my-playlist-select .see-all-KD3agp {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 12px;
+  margin-top: 0.51px;
+  min-height: 24px;
+  min-width: 54px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: 54px;
+}
+
+.my-playlist-select .clo-playlist-card-lIN45D {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 208px;
+  margin-top: 8px;
+  position: relative;
+  width: 209px;
+}
+
+.my-playlist-select .frame-82-G3KoP7 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 191px;
+  justify-content: center;
+  margin-bottom: -0.11px;
+  margin-left: 3px;
+  min-width: 181px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .clo-playlist-card-reGrTU {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 208px;
+  margin-top: -7.16px;
+  position: relative;
+  width: 209px;
+}
+
+.my-playlist-select .frame-84-G3KoP7 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 191px;
+  justify-content: flex-start;
+  margin-bottom: -0.11px;
+  margin-left: 17px;
+  min-width: 181px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .frame-86-97sk3Z {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 191px;
+  justify-content: center;
+  min-width: 181px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .clo-playlist-card-nhLjMs {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 208px;
+  margin-top: -7.16px;
+  position: relative;
+  width: 209px;
+}
+
+.my-playlist-select .frame-85-G3KoP7 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 191px;
+  justify-content: flex-start;
+  margin-bottom: -0.11px;
+  margin-left: 17px;
+  min-width: 181px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .frame-86-XSDH3u {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 191px;
+  justify-content: flex-start;
+  min-width: 181px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .frame-86-lJG0Tb {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 191px;
+  justify-content: center;
+  min-width: 181px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .clo-playlist-card-31o2iQ {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 208px;
+  margin-top: -7.16px;
+  position: relative;
+  width: 209px;
+}
+
+.my-playlist-select .continue-watching-53M7FN {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 236px;
+  justify-content: flex-start;
+  margin-top: 35px;
+  min-width: 776px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .component-5-hJl8xT {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 236px;
+  justify-content: flex-start;
+  min-width: 776px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .flex-col-5f1hHR {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: -10.76px;
+  margin-left: -13px;
+  min-height: 247px;
+  position: relative;
+  width: 212px;
+}
+
+.my-playlist-select .my-custom-playlist-n6RgEW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 30px;
+  min-width: 197px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.my-playlist-select .clo-playlist-card-n6RgEW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 208px;
+  margin-right: 2.6px;
+  margin-top: 8px;
+  position: relative;
+  width: 209px;
+}
+
+.my-playlist-select .flex-col-WqwVJ1 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: -0.11px;
+  margin-left: 0px;
+  min-height: 233px;
+  position: relative;
+  width: 181px;
+}
+
+.my-playlist-select .see-all-mWksWO {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 19.94px;
+  min-height: 24px;
+  min-width: 54px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: 54px;
+}
+
+.my-playlist-select .frame-82-mWksWO {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 191px;
+  justify-content: center;
+  margin-top: 17px;
+  min-width: 181px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .clo-playlist-card-lWXeSX {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 208px;
+  margin-top: -7.16px;
+  position: relative;
+  width: 209px;
+}
+
+.my-playlist-select .frame-84-5f1hHR {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 191px;
+  justify-content: flex-start;
+  margin-bottom: -0.11px;
+  margin-left: 17px;
+  min-width: 181px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .frame-86-UMiphX {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 191px;
+  justify-content: center;
+  min-width: 181px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .clo-playlist-card-teLzdN {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 208px;
+  margin-top: -7.16px;
+  position: relative;
+  width: 209px;
+}
+
+.my-playlist-select .frame-85-5f1hHR {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 191px;
+  justify-content: flex-start;
+  margin-bottom: -0.11px;
+  margin-left: 17px;
+  min-width: 181px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .frame-86-43lfHR {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 191px;
+  justify-content: flex-start;
+  min-width: 181px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .frame-86-Sl2H0f {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 191px;
+  justify-content: center;
+  min-width: 181px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .clo-playlist-card-k3VK46 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 208px;
+  margin-top: -7.16px;
+  position: relative;
+  width: 209px;
+}
+
+.my-playlist-select .continue-watching-sKCNVX {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 236px;
+  justify-content: flex-start;
+  margin-top: 35px;
+  min-width: 776px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .component-5-oNbDnW {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 236px;
+  justify-content: flex-start;
+  min-width: 776px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .flex-col-ZSKXph {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: -10.76px;
+  margin-left: -13px;
+  min-height: 247px;
+  position: relative;
+  width: 209px;
+}
+
+.my-playlist-select .flex-row-m7triv {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 30px;
+  justify-content: flex-start;
+  margin-left: 8.93px;
+  min-width: 189px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .all-playlists-7cToQG {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 30px;
+  min-width: 118px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.my-playlist-select .see-all-7cToQG {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 16px;
+  margin-top: 0.51px;
+  min-height: 24px;
+  min-width: 54px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: 54px;
+}
+
+.my-playlist-select .clo-playlist-card-m7triv {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 208px;
+  margin-top: 8px;
+  position: relative;
+  width: 209px;
+}
+
+.my-playlist-select .frame-82-ZSKXph {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 191px;
+  justify-content: center;
+  margin-bottom: -0.11px;
+  margin-left: 3px;
+  min-width: 181px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .clo-playlist-card-XkdnfA {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 208px;
+  margin-top: -7.16px;
+  position: relative;
+  width: 209px;
+}
+
+.my-playlist-select .frame-84-ZSKXph {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 191px;
+  justify-content: flex-start;
+  margin-bottom: -0.11px;
+  margin-left: 17px;
+  min-width: 181px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .frame-86-cNRpJn {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 191px;
+  justify-content: center;
+  min-width: 181px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .clo-playlist-card-dhfeUt {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 208px;
+  margin-top: -7.16px;
+  position: relative;
+  width: 209px;
+}
+
+.my-playlist-select .frame-85-ZSKXph {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 191px;
+  justify-content: flex-start;
+  margin-bottom: -0.11px;
+  margin-left: 17px;
+  min-width: 181px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .frame-86-9TW5gM {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 191px;
+  justify-content: flex-start;
+  min-width: 181px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .frame-86-VZFsVH {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 191px;
+  justify-content: center;
+  min-width: 181px;
+  position: relative;
+  width: auto;
+}
+
+.my-playlist-select .clo-playlist-card-xEYXFm {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 208px;
+  margin-top: -7.16px;
+  position: relative;
+  width: 209px;
+}
+
+.my-playlist-select .type-primary-enabled-true-hooVri {
+  align-items: center;
+  background-color: var(--isko-raven);
+  border-radius: 999px;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  height: 48px;
+  justify-content: flex-end;
+  left: 352px;
+  min-width: 48px;
+  mix-blend-mode: normal;
+  padding: 0 10px;
+  position: absolute;
+  top: 620px;
+  width: auto;
+}
+
+.my-playlist-select .icon-i24052703149662-3iWNza {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 24px;
+  min-width: 26px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: 26px;
+}
+@media screen and (max-width: 1279px) {
+  .screen.x8-my-playlist { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1280px) {
+  .screen.my-playlist-select { 
+    display: none;
+   }
+}

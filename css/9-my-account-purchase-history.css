@@ -1,0 +1,1530 @@
+/* screen - 9-my-account-purchase-history */
+
+.x9-my-account-purchase-history {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 952px;
+  justify-content: flex-start;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  padding: 0 48px;
+  position: relative;
+  width: 1280px;
+}
+
+.x9-my-account-purchase-history .body-nO3VuM {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 3px;
+  margin-top: 64px;
+  min-height: 773px;
+  position: relative;
+  width: 1181px;
+}
+
+.x9-my-account-purchase-history .topnav-5Z0cn4 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-start;
+  min-width: 1181px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .component-6-BAiFQp {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 38px;
+  justify-content: flex-start;
+  min-width: 213px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .logo-tYhCUs {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 38px;
+  margin-left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 28px;
+}
+
+.x9-my-account-purchase-history .title-i23026771735-tYhCUs {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 46.8px;
+  margin-left: 19px;
+  margin-top: -5px;
+  min-height: 47px;
+  min-width: 96px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .frame-85-BAiFQp {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-start;
+  margin-left: 470px;
+  min-width: 498px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .right-lunk5D {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-start;
+  overflow: hidden;
+  position: relative;
+  width: 498px;
+}
+
+.x9-my-account-purchase-history .menu-horizontal-jnNaZQ {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-start;
+  min-width: 470px;
+  mix-blend-mode: normal;
+  padding: 0 24px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .dropdown-item-DNWvgX {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-start;
+  margin-left: 0px;
+  min-width: 48px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-PPgNb8 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 50px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .dropdown-item-xSZ9Ll {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-start;
+  margin-left: 24px;
+  min-width: 53px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-ElcKOp {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 55px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .dropdown-item-8pvhVh {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-start;
+  margin-left: 24px;
+  min-width: 42px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-lsTmGM {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 44px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .dropdown-item-Vxwi4Y {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-start;
+  margin-left: 24px;
+  min-width: 85px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-2KzocM {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 87px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .dropdown-item-ce4H5K {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-start;
+  margin-left: 24px;
+  min-width: 98px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-6NYye3 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 100px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .essentials-user-circle-jnNaZQ {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 28px;
+  margin-left: 0px;
+  position: relative;
+  width: 28px;
+}
+
+.x9-my-account-purchase-history .frame-230-5Z0cn4 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 58px;
+  min-height: 667px;
+  position: relative;
+  width: 1118px;
+}
+
+.x9-my-account-purchase-history .welcome-back-charlene-s6uwrx {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 34px;
+  justify-content: flex-start;
+  min-width: 706px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .welcome-back-ch-i23026788751437-JC7Nw5 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 34px;
+  letter-spacing: 0.00px;
+  line-height: 63.6px;
+  min-height: 34px;
+  min-width: 708px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 708px;
+}
+
+.x9-my-account-purchase-history .frame-229-s6uwrx {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 583px;
+  justify-content: flex-start;
+  margin-top: 50px;
+  min-width: 1118px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .frame-137-yue8HA {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 583px;
+  justify-content: flex-start;
+  min-width: 226px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .frame-136-xbx6b7 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 251px;
+  position: relative;
+  width: 176px;
+}
+
+.x9-my-account-purchase-history .frame-154-N9avh9 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 171px;
+  position: relative;
+  width: 176px;
+}
+
+.x9-my-account-purchase-history .my-wallet-hllhzf {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 30px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  min-height: 30px;
+  min-width: 99px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .update-account-hllhzf {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 30px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-top: 17px;
+  min-height: 30px;
+  min-width: 165px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .purchase-history-hllhzf {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 30px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-top: 17px;
+  min-height: 30px;
+  min-width: 178px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .admin-panel-hllhzf {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 30px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-top: 17px;
+  min-height: 30px;
+  min-width: 128px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .logout-N9avh9 {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 30px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-top: 50px;
+  min-height: 30px;
+  min-width: 70px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .line-14-xbx6b7 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 584px;
+  margin-left: 49px;
+  margin-top: -0.5px;
+  position: relative;
+  width: 1px;
+}
+
+.x9-my-account-purchase-history .frame-228-yue8HA {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 58px;
+  min-height: 558px;
+  position: relative;
+  width: 834px;
+}
+
+.x9-my-account-purchase-history .stripes-true-VC1ZlM {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 448px;
+  position: relative;
+  width: 834px;
+}
+
+.x9-my-account-purchase-history .table-row-dzPo0R {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-start;
+  min-width: 834px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .table-cell-head-EzsVXa {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-end;
+  min-width: 278px;
+  padding: 0 14px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-i2302680092676-rLDSce {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 248px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 248px;
+}
+
+.x9-my-account-purchase-history .table-cell-head-HMaOp9 {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-end;
+  margin-left: 0px;
+  min-width: 278px;
+  padding: 0 14px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-i2302680092678-J4ax0G {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 248px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 248px;
+}
+
+.x9-my-account-purchase-history .table-cell-head-cbsifl {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-end;
+  margin-left: 0px;
+  min-width: 278px;
+  padding: 0 14px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-i2302680092680-98oWMt {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 248px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 248px;
+}
+
+.x9-my-account-purchase-history .table-row-yBg2rU {
+  align-items: flex-start;
+  background-color: var(--alabaster);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-start;
+  margin-top: 0px;
+  min-width: 834px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .table-cell-body-IRRhiH {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-end;
+  min-width: 278px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-i2302680092657-6fuqWj {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 531px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 531px;
+}
+
+.x9-my-account-purchase-history .table-cell-body-SS8CbY {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-end;
+  margin-left: 0px;
+  min-width: 278px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-i2302680092659-trTS5L {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 531px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 531px;
+}
+
+.x9-my-account-purchase-history .table-cell-body-fFDxAh {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-end;
+  margin-left: 0px;
+  min-width: 278px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-i2302680092661-6Im8Ms {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 531px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 531px;
+}
+
+.x9-my-account-purchase-history .table-row-JS7o0E {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-start;
+  margin-top: 0px;
+  min-width: 834px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .table-cell-body-KZQoCO {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-end;
+  min-width: 278px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-i2302680092644-NpvASH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 531px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 531px;
+}
+
+.x9-my-account-purchase-history .table-cell-body-AFDLxA {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-end;
+  margin-left: 0px;
+  min-width: 278px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-i2302680092646-aOGVVM {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 531px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 531px;
+}
+
+.x9-my-account-purchase-history .table-cell-body-xY2Pb0 {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-end;
+  margin-left: 0px;
+  min-width: 278px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-i2302680092648-NKoxB9 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 531px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 531px;
+}
+
+.x9-my-account-purchase-history .table-row-TDSxTx {
+  align-items: flex-start;
+  background-color: var(--alabaster);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-start;
+  margin-top: 0px;
+  min-width: 834px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .table-cell-body-JXqMDz {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-end;
+  min-width: 278px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-i2302680092631-AJsB6x {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 531px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 531px;
+}
+
+.x9-my-account-purchase-history .table-cell-body-U2WM0r {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-end;
+  margin-left: 0px;
+  min-width: 278px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-i2302680092633-EukvEW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 531px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 531px;
+}
+
+.x9-my-account-purchase-history .table-cell-body-TiJQbB {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-end;
+  margin-left: 0px;
+  min-width: 278px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-i2302680092635-xAEbAM {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 531px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 531px;
+}
+
+.x9-my-account-purchase-history .table-row-Jj51Wf {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-start;
+  margin-top: 0px;
+  min-width: 834px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .table-cell-body-j7UxGE {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-end;
+  min-width: 278px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-i2302680092618-bX45PQ {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 531px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 531px;
+}
+
+.x9-my-account-purchase-history .table-cell-body-Dz405e {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-end;
+  margin-left: 0px;
+  min-width: 278px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-i2302680092620-DJhbHY {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 531px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 531px;
+}
+
+.x9-my-account-purchase-history .table-cell-body-DwofxS {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-end;
+  margin-left: 0px;
+  min-width: 278px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-i2302680092622-x6xs6w {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 531px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 531px;
+}
+
+.x9-my-account-purchase-history .table-row-oxUjM6 {
+  align-items: flex-start;
+  background-color: var(--alabaster);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-start;
+  margin-top: 0px;
+  min-width: 834px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .table-cell-body-ODi9MG {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-end;
+  min-width: 278px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-i2302680092605-PprzKk {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 531px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 531px;
+}
+
+.x9-my-account-purchase-history .table-cell-body-bgSDIO {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-end;
+  margin-left: 0px;
+  min-width: 278px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-i2302680092607-biRzjj {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 531px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 531px;
+}
+
+.x9-my-account-purchase-history .table-cell-body-rJDQx8 {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-end;
+  margin-left: 0px;
+  min-width: 278px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-i2302680092609-LMWo0D {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 531px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 531px;
+}
+
+.x9-my-account-purchase-history .table-row-ewA1Ab {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-start;
+  margin-top: 0px;
+  min-width: 834px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .table-cell-body-Tqx0vg {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-end;
+  min-width: 278px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-i2302680092592-BHwDSV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 531px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 531px;
+}
+
+.x9-my-account-purchase-history .table-cell-body-k95Rht {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-end;
+  margin-left: 0px;
+  min-width: 278px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-i2302680092594-mEmMTZ {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 531px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 531px;
+}
+
+.x9-my-account-purchase-history .table-cell-body-gD2VOp {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-end;
+  margin-left: 0px;
+  min-width: 278px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-i2302680092596-NmqtMB {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 531px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 531px;
+}
+
+.x9-my-account-purchase-history .pager-VC1ZlM {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 41px;
+  justify-content: flex-start;
+  margin-top: 69px;
+  min-width: 293px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .button-icon-o0P9kn {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 3.29px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 41px;
+  justify-content: flex-end;
+  min-width: 41px;
+  mix-blend-mode: normal;
+  padding: 10.7px 8.7px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .icon-i2302680192754-vxalcN {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 20px;
+  min-width: 22px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: 22px;
+}
+
+.x9-my-account-purchase-history .frame-6-o0P9kn {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 41px;
+  justify-content: flex-start;
+  margin-left: 0px;
+  margin-top: -0.0px;
+  min-width: 209px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .button-tertiary-TOqMmG {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 3.29px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 41px;
+  justify-content: flex-end;
+  min-width: 41px;
+  mix-blend-mode: normal;
+  padding: 0 15.7px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-i2302680192752-RdmFda {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 23px;
+  letter-spacing: 0.00px;
+  line-height: 23.0px;
+  min-height: 23px;
+  min-width: 8px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 8px;
+}
+
+.x9-my-account-purchase-history .button-tertiary-iqqb47 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 3.29px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 41px;
+  justify-content: flex-end;
+  margin-left: 0px;
+  min-width: 41px;
+  mix-blend-mode: normal;
+  padding: 0 14.0px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-i2302680192750-adLOIz {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 23px;
+  letter-spacing: 0.00px;
+  line-height: 23.0px;
+  min-height: 23px;
+  min-width: 11px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 11px;
+}
+
+.x9-my-account-purchase-history .button-tertiary-nrM5U0 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 3.29px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 41px;
+  justify-content: flex-end;
+  margin-left: 0px;
+  min-width: 41px;
+  mix-blend-mode: normal;
+  padding: 0 14.0px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-i2302680192748-jQgXFO {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 23px;
+  letter-spacing: 0.00px;
+  line-height: 23.0px;
+  min-height: 23px;
+  min-width: 11px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 11px;
+}
+
+.x9-my-account-purchase-history .button-tertiary-cH4qYF {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 3.29px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 41px;
+  justify-content: flex-end;
+  margin-left: 0px;
+  min-width: 41px;
+  mix-blend-mode: normal;
+  padding: 0 12.0px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-i2302680192746-3rc30S {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 23px;
+  letter-spacing: 0.00px;
+  line-height: 23.0px;
+  min-height: 23px;
+  min-width: 15px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 15px;
+}
+
+.x9-my-account-purchase-history .button-tertiary-TD1wa0 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 3.29px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 41px;
+  justify-content: flex-end;
+  margin-left: 0px;
+  min-width: 41px;
+  mix-blend-mode: normal;
+  padding: 0 13.6px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .label-i2302680192744-eCtseY {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 23px;
+  letter-spacing: 0.00px;
+  line-height: 23.0px;
+  min-height: 23px;
+  min-width: 12px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 12px;
+}
+
+.x9-my-account-purchase-history .button-icon-N3xE9X {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 3.29px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 41px;
+  justify-content: flex-end;
+  margin-left: 0px;
+  margin-top: -0.0px;
+  min-width: 41px;
+  mix-blend-mode: normal;
+  padding: 0 8.7px;
+  position: relative;
+  width: auto;
+}
+
+.x9-my-account-purchase-history .icon-i2302680192742-uku595 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 20px;
+  min-width: 22px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: 22px;
+}

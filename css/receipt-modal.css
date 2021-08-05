@@ -1,0 +1,415 @@
+/* screen - receipt-modal */
+
+.receipt-modal {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 527px;
+  justify-content: flex-start;
+  min-width: 422px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: auto;
+}
+
+#overlay-receipt-modal {
+  background-color: transparent;
+}
+
+.overlay .receipt-modal {
+  background-color: #00000000;
+}
+
+.receipt-modal .body-B3j48J {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-shadow: -4px 0px 40px #3928a626;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 527px;
+  justify-content: flex-start;
+  min-width: 422px;
+  mix-blend-mode: normal;
+  padding: 52.5px 40.2px;
+  position: relative;
+  width: auto;
+}
+
+.receipt-modal .frame-232-Csj622 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 366px;
+  margin-left: 0px;
+  position: relative;
+  width: 342px;
+}
+
+.receipt-modal .frame-159-ilqfJB {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  min-height: 366px;
+  position: absolute;
+  top: 0px;
+  width: 327px;
+}
+
+.receipt-modal .frame-119-xSoxhr {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 37px;
+  justify-content: flex-end;
+  min-width: 221px;
+  position: relative;
+  width: auto;
+}
+
+.receipt-modal .shopping-bag-2-7NfGxY {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 33px;
+  margin-top: -0.25px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 32px;
+}
+
+.receipt-modal .order-receipt-7NfGxY {
+  background-color: transparent;
+  color: var(--isko-raven);
+  flex-shrink: 1;
+  font-family: var(--font-family-poppins);
+  font-size: 24.6px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 12px;
+  min-height: 37px;
+  min-width: 179px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 179px;
+}
+
+.receipt-modal .frame-123-xSoxhr {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 53px;
+  min-height: 197px;
+  position: relative;
+  width: 327px;
+}
+
+.receipt-modal .shopping-cart-item-05s0oC {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 56px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 327px;
+}
+
+.receipt-modal .frame-120-GyMDKv {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 34px;
+  justify-content: flex-start;
+  margin-left: -0.1px;
+  margin-top: 11px;
+  min-width: 308px;
+  position: relative;
+  width: auto;
+}
+
+.receipt-modal .understanding-t-i2302719185744-pcjG9d {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 34px;
+  min-width: 148px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.receipt-modal .php-1500-i2302719185746-pcjG9d {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 108px;
+  min-height: 17px;
+  min-width: 53px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: auto;
+}
+
+.receipt-modal .line-8-GyMDKv {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1px;
+  margin-left: -0.27px;
+  margin-top: 10px;
+  position: relative;
+  width: 328px;
+}
+
+.receipt-modal .shopping-cart-item-EZba7d {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 14px;
+  min-height: 56px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 327px;
+}
+
+.receipt-modal .frame-120-xClpen {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 34px;
+  justify-content: flex-start;
+  margin-left: -0.1px;
+  margin-top: 11px;
+  min-width: 308px;
+  position: relative;
+  width: auto;
+}
+
+.receipt-modal .understanding-t-i2302719285744-w6YSPX {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 34px;
+  min-width: 148px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.receipt-modal .php-1500-i2302719285746-w6YSPX {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 108px;
+  min-height: 17px;
+  min-width: 53px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: auto;
+}
+
+.receipt-modal .line-8-xClpen {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1px;
+  margin-left: -0.27px;
+  margin-top: 9px;
+  position: relative;
+  width: 328px;
+}
+
+.receipt-modal .shopping-cart-item-pNvDrl {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 14px;
+  min-height: 56px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 327px;
+}
+
+.receipt-modal .frame-120-SxH5Bd {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 34px;
+  justify-content: flex-start;
+  margin-left: -0.1px;
+  margin-top: 11px;
+  min-width: 308px;
+  position: relative;
+  width: auto;
+}
+
+.receipt-modal .understanding-t-i2302719385744-0RMjBa {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 34px;
+  min-width: 148px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.receipt-modal .php-1500-i2302719385746-0RMjBa {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 108px;
+  min-height: 17px;
+  min-width: 53px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: auto;
+}
+
+.receipt-modal .line-8-SxH5Bd {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1px;
+  margin-left: -0.27px;
+  margin-top: 10px;
+  position: relative;
+  width: 328px;
+}
+
+.receipt-modal .frame-160-xSoxhr {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 26px;
+  justify-content: flex-start;
+  margin-top: 53px;
+  min-width: 323px;
+  position: relative;
+  width: auto;
+}
+
+.receipt-modal .frame-124-Zg2qxz {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 26px;
+  justify-content: flex-start;
+  min-width: 323px;
+  position: relative;
+  width: auto;
+}
+
+.receipt-modal .total-Oygh6A {
+  background-color: transparent;
+  color: var(--isko-raven);
+  flex-shrink: 1;
+  font-family: var(--font-family-poppins);
+  font-size: 17.3px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 26px;
+  min-width: 57px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 57px;
+}
+
+.receipt-modal .php-4500-Oygh6A {
+  background-color: transparent;
+  color: var(--black);
+  flex-shrink: 1;
+  font-family: var(--font-family-poppins);
+  font-size: 17.3px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-bottom: -0.0px;
+  margin-left: 177px;
+  min-height: 26px;
+  min-width: 91px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: right;
+  width: 91px;
+}
+
+.receipt-modal .vector-ilqfJB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 327px;
+  position: absolute;
+  top: -1px;
+  width: 16px;
+}

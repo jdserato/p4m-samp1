@@ -1,0 +1,27 @@
+/* screen - 9-my-account-my-wallet */
+
+.x9-my-account-my-wallet {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 1383px;
+  justify-content: flex-start;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  padding: 0 254px;
+  position: relative;
+  width: 1280px;
+}
+
+.x9-my-account-my-wallet .header-coins-shopping-bag-7xjHfh {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 34px;
+  margin-left: 66px;
+  margin-top: 819px;
+  position: relative;
+  width: 706px;
+}

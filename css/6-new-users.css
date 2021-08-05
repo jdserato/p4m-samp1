@@ -1,0 +1,507 @@
+/* screen - 6-new-users */
+
+.x6-new-users {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 672px;
+  justify-content: flex-start;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  padding: 0 49px;
+  position: relative;
+  width: 1280px;
+}
+
+.x6-new-users .body-xBEx6U {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 2px;
+  margin-top: 64px;
+  min-height: 516px;
+  position: relative;
+  width: 1180px;
+}
+
+.x6-new-users .topnav-x3AIwl {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-start;
+  min-width: 1180px;
+  position: relative;
+  width: auto;
+}
+
+.x6-new-users .component-6-zw62tV {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 38px;
+  justify-content: flex-start;
+  min-width: 213px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x6-new-users .logo-V8bl9r {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 38px;
+  margin-left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 28px;
+}
+
+.x6-new-users .title-i23025045735-V8bl9r {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 46.8px;
+  margin-left: 19px;
+  margin-top: -5px;
+  min-height: 47px;
+  min-width: 96px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x6-new-users .frame-85-zw62tV {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-start;
+  margin-left: 470px;
+  min-width: 497px;
+  position: relative;
+  width: auto;
+}
+
+.x6-new-users .right-7V7vIZ {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-start;
+  overflow: hidden;
+  position: relative;
+  width: 497px;
+}
+
+.x6-new-users .menu-horizontal-b88kKZ {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-start;
+  min-width: 469px;
+  mix-blend-mode: normal;
+  padding: 0 24px;
+  position: relative;
+  width: auto;
+}
+
+.x6-new-users .dropdown-item-nRUpeN {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-start;
+  margin-left: 0px;
+  min-width: 48px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x6-new-users .label-wPsGwg {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 50px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x6-new-users .dropdown-item-DRGjtV {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-start;
+  margin-left: 24px;
+  min-width: 55px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x6-new-users .label-lMNn8b {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 57px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x6-new-users .dropdown-item-eVwb4H {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-start;
+  margin-left: 24px;
+  min-width: 42px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x6-new-users .label-BdQ4KQ {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 44px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x6-new-users .dropdown-item-flPm1a {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-start;
+  margin-left: 24px;
+  min-width: 85px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x6-new-users .label-Wdhl5w {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 87px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x6-new-users .dropdown-item-hsixxV {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-start;
+  margin-left: 24px;
+  min-width: 95px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x6-new-users .label-BBwsxG {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 97px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x6-new-users .essentials-user-circle-b88kKZ {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 28px;
+  margin-left: 0px;
+  position: relative;
+  width: 28px;
+}
+
+.x6-new-users .frame-218-x3AIwl {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 35px;
+  min-height: 433px;
+  position: relative;
+  width: 706px;
+}
+
+.x6-new-users .welcome-back-charlene-59xuvx {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 34px;
+  justify-content: flex-start;
+  min-width: 706px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: auto;
+}
+
+.x6-new-users .welcome-back-ch-i23025062751437-7AyGAz {
+  background-color: transparent;
+  color: var(--isko-raven);
+  flex-shrink: 1;
+  font-family: var(--font-family-poppins);
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 43.2px;
+  min-height: 34px;
+  min-width: 708px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 708px;
+}
+
+.x6-new-users .frame-87-59xuvx {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 56px;
+  min-height: 343px;
+  position: relative;
+  width: 294px;
+}
+
+.x6-new-users .group-112-hYexHO {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 2.0px;
+  min-height: 267px;
+  position: relative;
+  width: 296px;
+}
+
+.x6-new-users .group-101-NzWIv2 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 190px;
+  margin-right: 16.27px;
+  position: relative;
+  width: 245px;
+}
+
+.x6-new-users .group-100-gzaWLW {
+  background-color: transparent;
+  height: 166px;
+  left: 58px;
+  position: absolute;
+  top: 16px;
+  width: 176px;
+}
+
+.x6-new-users .ellipse-15-gzaWLW {
+  background-color: #d0d0f0;
+  border-radius: 55.92px/55.82px;
+  height: 112px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 15px;
+  width: 112px;
+}
+
+.x6-new-users .ellipse-16-gzaWLW {
+  background-color: #d0d0f0;
+  border-radius: 55.92px;
+  height: 112px;
+  left: 46px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 71px;
+  width: 112px;
+}
+
+.x6-new-users .rectangle-162-gzaWLW {
+  background-color: #d1d0f0;
+  height: 142px;
+  left: 173px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 48px;
+  width: 73px;
+}
+
+.x6-new-users .rectangle-163-gzaWLW {
+  background-color: #d1d0f0;
+  height: 142px;
+  left: 124px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0px;
+  width: 73px;
+}
+
+.x6-new-users .you-havent-made-uck-at-the-shop-NzWIv2 {
+  background-color: transparent;
+  color: var(--mine-shaft);
+  flex-shrink: 1;
+  font-family: var(--font-family-poppins);
+  font-size: 15.6px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 30px;
+  min-height: 46px;
+  min-width: 296px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: auto;
+}
+
+.x6-new-users .enabled-true-ic-icon-right-true-hYexHO {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 4px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 48px;
+  justify-content: flex-end;
+  margin-top: 28px;
+  min-width: 170px;
+  mix-blend-mode: normal;
+  padding: 0 13px;
+  position: relative;
+  width: auto;
+}
+
+.x6-new-users .label-i23025081752610-fxut3Z {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  min-height: 28px;
+  min-width: 110px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x6-new-users .icon-i23025081752611-fxut3Z {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 6px;
+  min-height: 24px;
+  min-width: 26px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: 26px;
+}
